@@ -9,7 +9,7 @@
 
 | <img width="685" src="docs/assets/export.jpeg"> | <img width="685" src="docs/assets/snapshot.jpeg"> | <img width="685" src="docs/assets/original.jpeg"> |
 | :---------------------------------------------: | :-----------------------------------------------: | :-----------------------------------------------: |
-|               Export with Notion                |        Scraped with **✨NotionSnapshot✨**        |                   Original page                   |
+|               Export with Notion                |        Scraped with ✨NotionSnapshot✨        |                   Original page                   |
 
 # usage
 
