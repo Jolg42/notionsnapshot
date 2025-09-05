@@ -6,6 +6,7 @@
 /_/ |_/\____/\__/_/\____/_/ /_/   /____/_/ /_/\__,_/ .___/____/_/ /_/\____/\__/
 the ultimate notion scraper based on loconotion   /_/
 
+
 Warning: This project is no longer maintained.
 
 - Please check out its successor: https://github.com/sueszli/notionbackup
@@ -15,7 +16,6 @@ Usage:
 
 $ python notionsnapshot --help
 $ python notionsnapshot --dark-mode https://sueszli.notion.site/NotionSnapshot-Test-tiny-page-4dfa05657f774b45993542da4a8530c2
-
 ```
 
 | <img width="685" src="docs/assets/export.jpeg"> | <img width="685" src="docs/assets/snapshot.jpeg"> | <img width="685" src="docs/assets/original.jpeg"> |
