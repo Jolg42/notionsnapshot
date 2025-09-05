@@ -4,7 +4,7 @@
   /  |/ / __ \/ __/ / __ \/ __ \    \__ \/ __ \/ __ `/ __ \/ ___/ __ \/ __ \/ __/
  / /|  / /_/ / /_/ / /_/ / / / /   ___/ / / / / /_/ / /_/ (__  ) / / / /_/ / /_
 /_/ |_/\____/\__/_/\____/_/ /_/   /____/_/ /_/\__,_/ .___/____/_/ /_/\____/\__/
-the ultimate notion scraper based on loconotion   /_/
+the ultimate notion scraper                       /_/
 
 
 Warning: This project is no longer maintained.
