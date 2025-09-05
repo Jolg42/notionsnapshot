@@ -13,8 +13,9 @@
 |               Export with Notion                |        Scraped with ✨NotionSnapshot✨        |                   Original page                   |
 
 > [!WARNING]
-> ⚠️ This project is no longer maintained.
-For an actively maintained alternative, please check out its successor: sueszli/notionbackup
+> This project is no longer maintained.
+>
+> For an actively maintained alternative, please check out its successor: sueszli/notionbackup
 
 ```bash
 # install chrome (in case you're using windows subsystem for linux)
