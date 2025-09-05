@@ -1,3 +1,4 @@
+
 ```
     _   __      __  _                _____                        __          __
    / | / /___  / /_(_)___  ____     / ___/____  ____ _____  _____/ /_  ____  / /_
@@ -11,11 +12,9 @@
 | :---------------------------------------------: | :-----------------------------------------------: | :-----------------------------------------------: |
 |               Export with Notion                |        Scraped with ✨NotionSnapshot✨        |                   Original page                   |
 
-# usage
-
-this project is a work in progress. pull requests are welcome. a docker script is provided for reproducibility.
-
-for a more reliable backup strategy check out: [NotionBackup](https://github.com/sueszli/notionBackup)
+> [!WARNING]
+> ⚠️ This project is no longer maintained.
+For an actively maintained alternative, please check out its successor: sueszli/notionbackup
 
 ```bash
 # install chrome (in case you're using windows subsystem for linux)
@@ -34,10 +33,5 @@ pip install -r requirements.txt
 python notionsnapshot --help
 python notionsnapshot --dark-mode https://sueszli.notion.site/NotionSnapshot-Test-tiny-page-4dfa05657f774b45993542da4a8530c2
 ```
-# kudos
 
-many thanks to:
-
--   [@leoncvlt](https://github.com/leoncvlt) who laid the foundation of this project through loconotion (this project is a complete rewrite)
--   [@mjdeligan](https://github.com/MJDeligan) who heavily optimized the performance and implemented the caching and recursive crawling functionality
--   [@stefnotch](https://github.com/stefnotch/) and [@thomasbiede](https://github.com/ThomasBiede) who helped me set the project up
+many thanks to [@leoncvlt](https://github.com/leoncvlt) for laying the foundation of this project with "loconotion".
